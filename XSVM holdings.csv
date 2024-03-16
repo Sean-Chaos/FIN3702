@@ -1,0 +1,121 @@
+Fund Ticker,Security Identifier,Holding Ticker,Shares/Par Value,MarketValue,Weight,Name,Class of Shares,Sector,Date
+XSVM,488152208,KELYA ,"495,513","11,966,638.95",1.603,Kelly Services Inc,Common Stock,Industrials,03/13/2024
+XSVM,516806205,VTLE ,"222,638","11,334,500.58",1.518,Vital Energy Inc,Common Stock,Energy,03/13/2024
+XSVM,46817M107,JXN ,"177,491","10,936,995.42",1.465,Jackson Financial Inc,Common Stock,Financials,03/13/2024
+XSVM,G36738105,FDP ,"438,731","10,836,655.70",1.451,Fresh Del Monte Produce Inc,Common Stock,Consumer Staples,03/13/2024
+XSVM,98421M106,XRX ,"616,498","10,387,991.30",1.391,Xerox Holdings Corp,Common Stock,Information Technology,03/13/2024
+XSVM,806037107,SCSC ,"243,444","10,358,542.20",1.387,ScanSource Inc,Common Stock,Information Technology,03/13/2024
+XSVM,233377407,DXPE ,"218,870","10,144,624.50",1.359,DXP Enterprises Inc/TX,Common Stock,Industrials,03/13/2024
+XSVM,500255104,KSS ,"392,837","9,934,847.73",1.331,Kohl's Corp,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,37247D106,GNW ,"1,543,496","9,785,764.64",1.311,Genworth Financial Inc,Common Stock,Financials,03/13/2024
+XSVM,18538R103,CLW ,"235,089","9,772,649.73",1.309,Clearwater Paper Corp,Common Stock,Materials,03/13/2024
+XSVM,302301106,EZPW ,"885,406","9,385,303.60",1.257,EZCORP Inc,Common Stock,Financials,03/13/2024
+XSVM,08160H101,BHE ,"303,333","9,239,523.18",1.237,Benchmark Electronics Inc,Common Stock,Information Technology,03/13/2024
+XSVM,861896108,SNEX ,"136,747","9,215,380.33",1.234,StoneX Group Inc,Common Stock,Financials,03/13/2024
+XSVM,393657101,GBX ,"182,934","9,033,280.92",1.210,Greenbrier Cos Inc/The,Common Stock,Industrials,03/13/2024
+XSVM,69888T207,PARR ,"236,210","8,881,496.00",1.189,Par Pacific Holdings Inc,Common Stock,Energy,03/13/2024
+XSVM,88337F105,ODP ,"166,444","8,570,201.56",1.148,ODP Corp/The,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,801056102,SANM ,"133,364","8,551,299.68",1.145,Sanmina Corp,Common Stock,Information Technology,03/13/2024
+XSVM,67011P100,DNOW ,"571,342","8,421,581.08",1.128,DNOW Inc,Common Stock,Industrials,03/13/2024
+XSVM,034164103,ANDE ,"153,030","8,334,013.80",1.116,Andersons Inc/The,Common Stock,Consumer Staples,03/13/2024
+XSVM,023139884,AMBC ,"535,158","8,129,050.02",1.089,Ambac Financial Group Inc,Common Stock,Financials,03/13/2024
+XSVM,398905109,GPI ,"30,039","7,998,484.53",1.071,Group 1 Automotive Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,68162K106,ZEUS ,"119,916","7,825,718.16",1.048,Olympic Steel Inc,Common Stock,Materials,03/13/2024
+XSVM,129500104,CAL ,"201,409","7,822,725.56",1.048,Caleres Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,67098H104,OI ,"490,048","7,674,151.68",1.028,O-I Glass Inc,Common Stock,Materials,03/13/2024
+XSVM,043436104,ABG ,"36,393","7,658,178.99",1.026,Asbury Automotive Group Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,29357K103,ENVA ,"121,979","7,599,291.70",1.018,Enova International Inc,Common Stock,Financials,03/13/2024
+XSVM,90346E103,SLCA ,"611,552","7,485,396.48",1.002,US Silica Holdings Inc,Common Stock,Energy,03/13/2024
+XSVM,415864107,NVRI ,"912,296","7,471,704.24",1.001,Enviri Corp,Common Stock,Industrials,03/13/2024
+XSVM,552676108,MDC ,"118,731","7,452,744.87",0.998,MDC Holdings Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,929566107,WNC ,"269,730","7,390,602.00",0.990,Wabash National Corp,Common Stock,Industrials,03/13/2024
+XSVM,12662P108,CVI ,"212,253","7,365,179.10",0.986,CVR Energy Inc,Common Stock,Energy,03/13/2024
+XSVM,36162J106,GEO ,"590,486","7,262,977.80",0.973,GEO Group Inc/The,Common Stock,Industrials,03/13/2024
+XSVM,G8192H106,SPNT ,"589,416","7,196,769.36",0.964,SiriusPoint Ltd,Common Stock,Financials,03/13/2024
+XSVM,G0585R106,AGO ,"79,318","7,190,176.70",0.963,Assured Guaranty Ltd,Common Stock,Financials,03/13/2024
+XSVM,824889109,SCVL ,"218,844","7,000,819.56",0.938,Shoe Carnival Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,690732102,OMI ,"279,090","6,996,786.30",0.937,Owens & Minor Inc,Common Stock,Health Care,03/13/2024
+XSVM,87265H109,TPH ,"194,570","6,806,058.60",0.912,Tri Pointe Homes Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,86722A103,SXC ,"617,911","6,784,662.78",0.909,SunCoke Energy Inc,Common Stock,Materials,03/13/2024
+XSVM,55305B101,MHO ,"52,051","6,762,465.92",0.906,M/I Homes Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,83545G102,SAH ,"128,977","6,732,599.40",0.902,Sonic Automotive Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,128030202,CALM ,"112,471","6,680,777.40",0.895,Cal-Maine Foods Inc,Common Stock,Consumer Staples,03/13/2024
+XSVM,156504300,CCS ,"74,661","6,621,684.09",0.887,Century Communities Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,01748X102,ALGT ,"93,475","6,548,858.50",0.877,Allegiant Travel Co,Common Stock,Industrials,03/13/2024
+XSVM,431571108,HI ,"136,074","6,523,047.38",0.874,Hillenbrand Inc,Common Stock,Industrials,03/13/2024
+XSVM,78454L100,SM ,"138,771","6,497,258.22",0.870,SM Energy Co,Common Stock,Energy,03/13/2024
+XSVM,024061103,AXL ,"984,713","6,420,328.76",0.860,American Axle & Manufacturing Holdings Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,750236101,RDN ,"198,581","6,291,046.08",0.843,Radian Group Inc,Common Stock,Financials,03/13/2024
+XSVM,63938C108,NAVI ,"369,999","6,249,283.11",0.837,Navient Corp,Common Stock,Financials,03/13/2024
+XSVM,879433829,TDS ,"391,157","6,219,396.30",0.833,Telephone and Data Systems Inc,Common Stock,Communication Services,03/13/2024
+XSVM,046224101,ASTE ,"153,512","6,197,279.44",0.830,Astec Industries Inc,Common Stock,Industrials,03/13/2024
+XSVM,703343103,PATK ,"55,779","6,188,680.05",0.829,Patrick Industries Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,428567101,HIBB ,"82,382","6,126,749.34",0.821,Hibbett Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,830879102,SKYW ,"90,349","6,111,206.36",0.818,SkyWest Inc,Common Stock,Industrials,03/13/2024
+XSVM,36251C103,GMS ,"66,114","6,075,215.46",0.814,GMS Inc,Common Stock,Industrials,03/13/2024
+XSVM,860372101,STC ,"98,717","6,010,384.54",0.805,Stewart Information Services Corp,Common Stock,Financials,03/13/2024
+XSVM,000957100,ABM ,"140,902","5,946,064.40",0.796,ABM Industries Inc,Common Stock,Industrials,03/13/2024
+XSVM,03062T105,CRMT ,"94,366","5,924,297.48",0.793,America's Car-Mart Inc/TX,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,57638P104,MBC ,"327,764","5,899,752.00",0.790,Masterbrand Inc,Common Stock,Industrials,03/13/2024
+XSVM,50060P106,KOP ,"109,936","5,873,880.48",0.787,Koppers Holdings Inc,Common Stock,Materials,03/13/2024
+XSVM,75574U101,RC ,"654,519","5,831,764.29",0.781,Ready Capital Corp,Real Estate Investment Trust			     ,Financials,03/13/2024
+XSVM,59001A102,MTH ,"36,241","5,816,680.50",0.779,Meritage Homes Corp,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,00402L107,ASO ,"82,729","5,733,946.99",0.768,Academy Sports & Outdoors Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,248019101,DLX ,"298,356","5,731,418.76",0.768,Deluxe Corp,Common Stock,Industrials,03/13/2024
+XSVM,53115L104,LBRT ,"282,556","5,707,631.20",0.764,Liberty Energy Inc,Common Stock,Energy,03/13/2024
+XSVM,678026105,OIS ,"1,005,997","5,663,763.11",0.759,Oil States International Inc,Common Stock,Energy,03/13/2024
+XSVM,719405102,PLAB ,"190,870","5,626,847.60",0.754,Photronics Inc,Common Stock,Information Technology,03/13/2024
+XSVM,401617105,GES ,"219,140","5,620,941.00",0.753,Guess? Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,871332102,SLVM ,"90,412","5,593,790.44",0.749,Sylvamo Corp,Common Stock,Materials,03/13/2024
+XSVM,030506109,AMWD ,"59,099","5,592,538.37",0.749,American Woodmark Corp,Common Stock,Industrials,03/13/2024
+XSVM,62482R107,COOP ,"76,205","5,575,157.80",0.747,Mr Cooper Group Inc,Common Stock,Financials,03/13/2024
+XSVM,153527205,CENTA ,"148,890","5,565,508.20",0.745,Central Garden & Pet Co,Common Stock,Consumer Staples,03/13/2024
+XSVM,292218104,EIG ,"124,736","5,500,857.60",0.737,Employers Holdings Inc,Common Stock,Financials,03/13/2024
+XSVM,74319R101,PRG ,"170,645","5,474,291.60",0.733,PROG Holdings Inc,Common Stock,Financials,03/13/2024
+XSVM,87484T108,TALO ,"418,447","5,439,811.00",0.729,Talos Energy Inc,Common Stock,Energy,03/13/2024
+XSVM,05465C100,AX ,"106,377","5,382,676.20",0.721,Axos Financial Inc,Common Stock,Financials,03/13/2024
+XSVM,297602104,ETD ,"160,948","5,362,787.36",0.718,Ethan Allen Interiors Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,09739D100,BCC ,"40,943","5,294,339.33",0.709,Boise Cascade Co,Common Stock,Industrials,03/13/2024
+XSVM,88830M102,TWI ,"419,267","5,245,030.17",0.702,Titan International Inc,Common Stock,Industrials,03/13/2024
+XSVM,741511109,PSMT ,"63,510","5,236,399.50",0.701,PriceSmart Inc,Common Stock,Consumer Staples,03/13/2024
+XSVM,23204G100,CUBI ,"100,722","5,229,486.24",0.700,Customers Bancorp Inc,Common Stock,Financials,03/13/2024
+XSVM,74347M108,PUMP ,"696,609","5,203,669.23",0.697,ProPetro Holding Corp,Common Stock,Energy,03/13/2024
+XSVM,443320106,HUBG ,"122,461","5,177,651.08",0.693,Hub Group Inc,Common Stock,Industrials,03/13/2024
+XSVM,624580106,MOV ,"188,552","5,162,553.76",0.691,Movado Group Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,419596101,HVT ,"158,235","5,145,802.20",0.689,Haverty Furniture Cos Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,566330106,MCS ,"350,822","5,044,820.36",0.676,Marcus Corp/The,Common Stock,Communication Services,03/13/2024
+XSVM,094235108,BLMN ,"174,300","5,032,041.00",0.674,Bloomin' Brands Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,913456109,UVV ,"98,291","5,000,063.17",0.670,Universal Corp/VA,Common Stock,Consumer Staples,03/13/2024
+XSVM,292562105,WIRE ,"22,078","4,979,472.12",0.667,Encore Wire Corp,Common Stock,Industrials,03/13/2024
+XSVM,600544100,MLKN ,"163,918","4,948,684.42",0.663,MillerKnoll Inc,Common Stock,Industrials,03/13/2024
+XSVM,038923108,ABR ,"376,463","4,897,783.63",0.656,Arbor Realty Trust Inc,Real Estate Investment Trust			     ,Financials,03/13/2024
+XSVM,917047102,URBN ,"116,222","4,872,026.24",0.652,Urban Outfitters Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,35243J101,FBRT ,"364,685","4,813,842.00",0.645,Franklin BSP Realty Trust Inc,Real Estate Investment Trust			     ,Financials,03/13/2024
+XSVM,70931T103,PMT ,"329,583","4,752,586.86",0.636,PennyMac Mortgage Investment Trust,Real Estate Investment Trust			     ,Financials,03/13/2024
+XSVM,037598109,APOG ,"82,625","4,731,107.50",0.634,Apogee Enterprises Inc,Common Stock,Industrials,03/13/2024
+XSVM,G81276100,SIG ,"47,729","4,723,261.84",0.633,Signet Jewelers Ltd,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,974637100,WGO ,"72,893","4,712,532.45",0.631,Winnebago Industries Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,42330P107,HLX ,"480,966","4,684,608.84",0.627,Helix Energy Solutions Group Inc,Common Stock,Energy,03/13/2024
+XSVM,505336107,LZB ,"122,876","4,564,843.40",0.611,La-Z-Boy Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,21871N101,CXW ,"308,643","4,555,570.68",0.610,CoreCivic Inc,Common Stock,Industrials,03/13/2024
+XSVM,629209305,NMIH ,"150,678","4,533,901.02",0.607,NMI Holdings Inc,Common Stock,Financials,03/13/2024
+XSVM,57686G105,MATX ,"41,769","4,458,423.06",0.597,Matson Inc,Common Stock,Industrials,03/13/2024
+XSVM,887399103,MTUS ,"208,180","4,446,724.80",0.596,Metallus Inc,Common Stock,Materials,03/13/2024
+XSVM,03762U105,ARI ,"395,603","4,414,929.48",0.591,Apollo Commercial Real Estate Finance Inc,Real Estate Investment Trust			     ,Financials,03/13/2024
+XSVM,665531307,NOG ,"117,707","4,391,648.17",0.588,Northern Oil & Gas Inc,Common Stock,Energy,03/13/2024
+XSVM,13057Q305,CRC ,"82,340","4,365,666.80",0.585,California Resources Corp,Common Stock,Energy,03/13/2024
+XSVM,020764106,AMR ,"13,850","4,346,545.50",0.582,Alpha Metallurgical Resources Inc,Common Stock,Materials,03/13/2024
+XSVM,432748101,HTH ,"139,267","4,315,884.33",0.578,Hilltop Holdings Inc,Common Stock,Financials,03/13/2024
+XSVM,807066105,SCHL ,"114,435","4,276,435.95",0.573,Scholastic Corp,Common Stock,Communication Services,03/13/2024
+XSVM,36237H101,GIII ,"140,088","4,248,869.04",0.569,G-III Apparel Group Ltd,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,69318J100,CNXN ,"64,972","4,216,682.80",0.565,PC Connection Inc,Common Stock,Information Technology,03/13/2024
+XSVM,71363P106,PRDO ,"234,420","4,160,955.00",0.557,Perdoceo Education Corp,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,28852N109,EFC ,"353,114","4,085,528.98",0.547,Ellington Financial Inc,Real Estate Investment Trust			     ,Financials,03/13/2024
+XSVM,319829107,FCF ,"304,414","4,051,750.34",0.543,First Commonwealth Financial Corp,Common Stock,Financials,03/13/2024
+XSVM,68554V108,OSUR ,"574,951","4,041,905.53",0.541,OraSure Technologies Inc,Common Stock,Health Care,03/13/2024
+XSVM,853666105,SMP ,"126,656","3,944,067.84",0.528,Standard Motor Products Inc,Common Stock,Consumer Discretionary,03/13/2024
+XSVM,81761L102,SVC ,"606,910","3,926,707.70",0.526,Service Properties Trust,Real Estate Investment Trust			     ,Real Estate,03/13/2024
+XSVM,93627C101,HCC ,"71,479","3,849,144.15",0.516,Warrior Met Coal Inc,Common Stock,Materials,03/13/2024
+XSVM,20854L108,CEIX ,"39,536","3,195,299.52",0.428,CONSOL Energy Inc,Common Stock,Energy,03/13/2024
+XSVM,825252885,AGPXX ,"75,578","75,577.98",0.010,Invesco Government & Agency Portfolio,"Money Market Fund, Taxable			     ",Investment Companies,03/13/2024
+XSVM,CASHUSD00,-CASH-,"-1,739","-1,739.01",-0.000,Cash/Receivables/Payables,Currency,Cash,03/13/2024
